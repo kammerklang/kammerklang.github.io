@@ -1,0 +1,294 @@
+
+
+/* JOBS */
+#nav-menu-item-3773 
+a{
+ color: #ff0061;
+}
+
+/* CHAMBER SOUND REDUX */
+ .vc_responsive .chamber_box_wrap.wpb_row .vc_span2 {
+    float: center;
+    width: 18.8%;
+    padding: 0;
+    margin-right: 1.5%;
+    min-height: 0;
+}
+
+.chamber_box_wrap .chamber_box_last {
+    margin: 0 !important;
+}
+
+
+/* GENERAL */
+header.centered_logo.centered_logo_animate .q_logo img, header:not(.centered_logo) .q_logo img {
+  height: 100% !important;
+}
+/* TYPOGRAPHY */
+.title h1 {
+  text-transform: none;
+}
+/* EVENT PAGES */
+.bio-img {
+  margin-top: 20px;
+}
+.bio-vid {
+  margin-top: 30px;
+}
+/* HOME BOXES */
+.black-box {
+  padding: 15px;
+}
+.colour-box,
+.colour-box.vc_column_container>.vc_column-inner {
+  padding-left: 13px;
+  padding-right: 13px;
+}
+.black-box,
+.colour-box {
+  margin-bottom: 30px;
+}
+.black-box {
+  background-color: #000000;
+}
+.black-box-top {
+  min-height: 90px;
+}
+.black-box,
+.black-box p, 
+.black-box h3,
+.black-box a,
+.black-box figcaption {
+  color: #fff;
+}
+.black-box a {
+  text-decoration: none;
+}
+.black-box a:hover {
+  color: #fff;
+}
+.black-box,
+.black-box p,
+.black-box figcaption {
+  font-size: 14px;
+  line-height: 1.2;
+}
+figure {
+    position: relative;
+    display: block;
+//    -webkit-margin-before: 18px;
+//    -webkit-margin-after: 0;
+//    -webkit-margin-start: 0;
+//    -webkit-margin-end: 0;
+    margin: 0;
+}
+figure img {
+    vertical-align: text-bottom;
+    opacity: 1;
+    transition: opacity 1s;
+    -webkit-transition: opacity 1s;
+}
+figcaption {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0px;
+    right: 0;
+    background-color: rgba(0,0,0,1);
+}
+figure:hover img {
+    opacity: 0;
+}
+figure:hover figcaption {
+    display: inline-block;
+}
+.more-shows {
+  background: #000;
+  letter-spacing: 0.3px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 29px;
+  border: 2px solid #000;
+  padding: 0.5em 0 0.5em 1em;
+  margin: 0 0 30px 0;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-family: 'Karla', Arial, sans-serif;
+}
+.more-shows:hover {
+  background: #fff;
+  color: #000;
+}
+.black-box p,
+.colour-box p {
+  margin: 6px 0 0 0;
+}
+.colour-box .flexslider, 
+.colour-box .portfolio_slider {
+  margin: 6px 0;
+}
+
+.soundWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.soundWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/* CHAMBER SOUND */
+.chamber-sound {
+  text-align: center;
+  letter-spacing: 0.4px;
+  color: #fff;
+  background: #ff0061;
+  font-size: 14px;
+  line-height: 2;
+  border: 2px solid #ff0061;
+  padding: 0.5em 14px;
+  margin: 0;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+a.chamber-link {
+  color: #fff;
+  text-decoration: none;
+}
+a.chamber-link:hover {
+  color: rgba(255,255,255,1);
+  text-decoration: none;
+}
+ .chamber-sound:hover {
+//  color: #fff;
+//  background: #ff0061;
+//  border: 2px solid #ff0061;
+}
+
+/* Season Box */
+.new-season {
+  background: #fff;
+  letter-spacing: 0.4px;
+  color: #000;
+  font-size: 25px;
+  line-height: 2;
+  border: 2px solid #000;
+  padding: 0.5em 14px;
+  margin: 0;
+}
+.new-season h3 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* NEWSLETTER BOX */
+.newsletter {
+  background: #fff;
+  letter-spacing: 0.4px;
+  color: #000;
+  font-size: 14px;
+  line-height: 2;
+  border: 2px solid #000;
+  padding: 0.5em 14px;
+  margin: 0;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+.newsletter .mc4wp-form-fields,
+.newsletter form {
+  display: inline-block;
+}
+.newsletter form {
+  padding-left: 1em;
+}
+.newsletter input {
+  border: 1px solid #000;
+  padding: 5px;
+}
+.newsletter input[type="submit" i] {
+  color: #fff;
+  background: #000;
+  border: 1px solid #000;
+  padding: 5px;
+  text-transform: uppercase;
+}
+.newsletter input[type="submit" i]:active {
+  color: #000;
+  background: #fff;
+}
+/* SOCIAL MEDIA */
+.instashow div {
+  padding: 0 !important;
+}
+.instashow-gallery .instashow-gallery-media-cover {
+  background: rgba(295,0,97,.9) !important;
+}
+.atf-object.atf-skin-default .atf-tweet-wrapper {
+  background-color: #fff !important;
+  padding: 0 0 0 2px;
+}
+.atf-static-tweets .atf-inner-wrapper .atf-tweet-wrapper {
+  margin: 0 !important;
+}
+.instagram-pics li {
+    float: left;
+    width: 27%;
+    padding-right: 7px;
+}
+.tweets li {
+  padding-bottom: 20px;
+}
+/* GALLERY */
+.fbx-rounded .fbx-inner {
+  border: 3px solid #000;
+}
+.fbx-rounded .fbx-close {
+  display: none;
+}
+.fbx-light .fbx-next,
+.fbx-light .fbx-prev {
+  background-color: rgba(0,0,0,0.8);
+  color: rgba(255,255,255,1);
+}
+/* INPUT BOXES */
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  text-transform: uppercase;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  text-transform: uppercase;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  text-transform: uppercase;
+}
+:-moz-placeholder { /* Firefox 18- */
+  text-transform: uppercase;
+}
+/* MEDIA QUERIES*/
+@media only screen and (max-width: 2000px) {
+  .newsletter {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  header .q_logo img.mobile {
+    margin: 5px auto 0 auto;
+  }
+  .black-box, 
+  .black-box p, 
+  .black-box figcaption {
+    font-size: 11px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .black-box, 
+  .black-box p, 
+  .black-box figcaption {
+    font-size: 14px;
+  }
+}

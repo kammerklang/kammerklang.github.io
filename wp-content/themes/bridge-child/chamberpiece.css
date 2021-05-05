@@ -1,0 +1,118 @@
+<style>
+.ui-widget-content {
+  color: #000;
+}
+.ui-tabs {
+  padding: 0;
+}
+.ui-tabs .ui-tabs-nav .ui-tabs-anchor {
+  padding: 0;
+}
+.ui-tabs .ui-tabs-nav {
+  padding: 0;
+  max-width: 750px;
+  text-align: center;
+  margin: 0 auto;
+}
+.ui-tabs .ui-tabs-nav li {
+  margin: 0;
+}
+.ui-state-default, 
+.ui-widget-content .ui-state-default, 
+.ui-widget-header .ui-state-default, 
+.ui-button, 
+html .ui-button.ui-state-disabled:hover, 
+html .ui-button.ui-state-disabled:active {
+  border: 0
+}
+.ui-state-active, .ui-widget-content .ui-state-active, 
+.ui-widget-header .ui-state-active,
+a.ui-button:active, .ui-button:active, 
+.ui-button.ui-state-active:hover {
+  border: 0;
+  background: rgba(255,255,255,0);
+}
+.ui-corner-all, 
+.ui-corner-top, 
+.ui-corner-right, 
+.ui-corner-tr {
+  border-top-right-radius: 0;
+}
+.ui-corner-all, 
+.ui-corner-top, 
+.ui-corner-left, 
+.ui-corner-tl {
+  border-top-left-radius: 0;
+}
+.ui-corner-all, 
+.ui-corner-top, 
+.ui-corner-right, 
+.ui-corner-tr {
+  border-bottom-right-radius: 0;
+}
+.ui-corner-all, 
+.ui-corner-bottom, 
+.ui-corner-left, 
+.ui-corner-bl {
+  border-bottom-left-radius: 0;
+}
+.ui-widget-header {
+  border: 0;
+  background: #fff;
+  color: #000;
+}
+.ui-tabs-anchor:hover,
+.ui-tabs-anchor:focus,
+.ui-tabs-anchor:active {
+  background: #000;
+}
+.ui-tabs-anchor img:hover,
+.ui-tabs-anchor img:focus,
+.ui-tabs-anchor img:active {
+  opacity: 0.7;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.ui-widget.ui-widget-content {
+  border: 0;
+}
+.ui-tabs .ui-tabs-panel {
+  margin: 0 auto;
+  text-align: center;
+}
+.ui-dialog .ui-dialog-titlebar {
+  padding: 0 1em;
+}
+.ui-dialog .ui-dialog-content {
+  min-height: 30px !important;
+  padding: 0.3em 1em;
+}
+.ui-dialog {
+//  position: absolute;
+//  bottom: 20% !important;
+//  left: 45%;
+}
+.ui-dialog-content p {
+  margin: 10px 0;
+}
+.tabs-text {
+  background: rgba(255,255,255,0);
+  color: #000;
+  margin: 20px 0;
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  max-width: 750px;
+  text-align: center;
+}
+.ui-state-default a, 
+.ui-state-default a:link, 
+.ui-state-default a:visited, 
+a.ui-button, 
+a:link.ui-button, 
+a:visited.ui-button, 
+.ui-button {
+  max-height: 150px;
+}
+</style>

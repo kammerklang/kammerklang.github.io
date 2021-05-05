@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dave &#8211; Kammer Klang</title>
+	<atom:link href="/author/dave/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 07 Sep 2016 13:06:15 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Test post 2</title>
+		<link>/test-post-2/</link>
+		
+		<dc:creator><![CDATA[Dave]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2016 12:54:10 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://kammerklang.websmyth.net/?p=247</guid>
+
+					<description><![CDATA[<p>Testing testing testing testing</p>
+<p>The post <a rel="nofollow" href="/test-post-2/">Test post 2</a> appeared first on <a rel="nofollow" href="/">Kammer Klang</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Testing testing testing testing</p>
+<p>The post <a rel="nofollow" href="/test-post-2/">Test post 2</a> appeared first on <a rel="nofollow" href="/">Kammer Klang</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Test post 1</title>
+		<link>/test-post-1/</link>
+		
+		<dc:creator><![CDATA[Dave]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2016 12:52:07 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://kammerklang.websmyth.net/?p=245</guid>
+
+					<description><![CDATA[<p>Testing testing testing testing</p>
+<p>The post <a rel="nofollow" href="/test-post-1/">Test post 1</a> appeared first on <a rel="nofollow" href="/">Kammer Klang</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Testing testing testing testing</p>
+<p>The post <a rel="nofollow" href="/test-post-1/">Test post 1</a> appeared first on <a rel="nofollow" href="/">Kammer Klang</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
