@@ -122,6 +122,9 @@ figure:hover figcaption {
 .wpb_wrapper > a:hover {
   text-decoration: none;
 }
+.home-special-note {
+  text-align: right;
+}
 .black-box p,
 .colour-box p {
   margin: 6px 0 0 0;
