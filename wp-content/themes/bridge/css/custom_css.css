@@ -117,8 +117,10 @@ figure:hover figcaption {
   font-family: 'Karla', Arial, sans-serif;
 }
 .more-shows:hover {
-  background: #fff;
-  color: #000;
+  cursor: auto;
+}
+.wpb_wrapper > a:hover {
+  text-decoration: none;
 }
 .black-box p,
 .colour-box p {
