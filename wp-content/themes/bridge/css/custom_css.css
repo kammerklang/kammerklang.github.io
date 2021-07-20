@@ -122,8 +122,28 @@ figure:hover figcaption {
 .wpb_wrapper > a:hover {
   text-decoration: none;
 }
+.home-thanks-large {
+    line-height: 1.2;
+    font-size: 1.6em;
+    text-align: center;
+}
+.home-thanks{
+    line-height: 1.1;
+    font-size: 1.4em;
+}
+@media only screen and (min-width: 768px) {
+    .home-thanks-large {
+        font-size: 1.4em;
+    }
+    .home-thanks {
+        font-size: 1.2em;
+    }
+}
+.home-thanks a {
+    text-decoration: none;
+}
 .home-special-note {
-  text-align: right;
+  text-align: center;
 }
 .black-box p,
 .colour-box p {
